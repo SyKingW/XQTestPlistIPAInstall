@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/SyKingW/XQTestPlistIPAInstall/blob/master/XQTestIGListKitDemo.ipa</string>
+					<string>https://raw.githubusercontent.com/SyKingW/XQTestPlistIPAInstall/master/XQTestIGListKitDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://pics.sc.chinaz.com/files/pic/pic9/201509/apic14546.jpg</string>
+					<string>http://bpic.588ku.com/element_pic/00/91/94/8456f18ade30696.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
